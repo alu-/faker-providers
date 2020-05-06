@@ -32,6 +32,8 @@ final class MonkeyIslandTest extends \Alu\Tests\Faker\TestCase
     /**
      * Test name
      *
+     * @covers \Alu\Faker\Provider\MonkeyIsland::name
+     *
      * @return void
      */
     public function testName(): void
@@ -43,6 +45,8 @@ final class MonkeyIslandTest extends \Alu\Tests\Faker\TestCase
 
     /**
      * Test location
+     *
+     * @covers \Alu\Faker\Provider\MonkeyIsland::location
      *
      * @return void
      */
