@@ -1,6 +1,12 @@
 {
     "name": "alu/faker-providers",
     "description": "A collection of custom providers for the fzaninotto/Faker library",
+    "keywords": [
+        "faker",
+        "providers",
+        "fixtures",
+        "data"
+    ],
     "type": "library",
     "autoload": {
         "psr-4": { "Alu\\Faker\\": "src/Faker" }
