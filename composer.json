@@ -15,7 +15,7 @@
         "psr-4": { "Alu\\Tests\\Faker\\": "tests/unit/Faker" }
     },
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^7.0",
         "fzaninotto/faker": "^1.9"
     },
     "require-dev": {
